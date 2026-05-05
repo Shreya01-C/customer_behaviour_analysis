@@ -71,9 +71,10 @@ Segmentation of customers for targeted marketing
 Recommendations to improve retention and subscription rates
 
 ## Dashboard Preview
-![Screenshot 2026-05-05 170532](C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-05 170532.png)
+![Screenshot 2026-05-05 170532](images/Screenshot 2026-05-05 170532.png)
 
 *Figure: Revenue trends via factors such as category, age, discount usage*
-![Screenshot 2026-05-05 170521](C:\Users\HP\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-05 170521.png)
+
+![Screenshot 2026-05-05 170521](images/Screenshot 2026-05-05 170521.png)
 
 *Figure: Top 5 Worst-Best comaprisons*
