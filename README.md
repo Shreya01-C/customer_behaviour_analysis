@@ -1,5 +1,5 @@
 # Customer Behaviour Analysis
-
+--- 
 ## Overview
 This project focuses on analyzing customer purchasing behavior to uncover insights that drive revenue growth, customer retention, and marketing optimization. By studying customer responses across demographics, product categories, discounts, and subscription models, we aim to understand how different factors influence overall company performance.
 
